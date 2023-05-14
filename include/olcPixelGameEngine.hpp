@@ -371,6 +371,8 @@ int main()
 */
 #pragma endregion
 
+#define OLC_PGE_APPLICATION
+
 #ifndef OLC_PGE_DEF
 #define OLC_PGE_DEF
 
