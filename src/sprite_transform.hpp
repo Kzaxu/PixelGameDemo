@@ -106,8 +106,9 @@ protected:
         return true;
     }
 
+    
     bool OnUserUpdate(float fElapsedTime) override {
-        
+
         UpdateStatus(fElapsedTime);
         Clear(olc::DARK_CYAN);
 
